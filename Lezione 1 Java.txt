@@ -1,0 +1,41 @@
+Comandi 
+OBJECT ORIENTED
+Oblject Oriented è la schematizzazione fatta dall'analista per un progetto assegnato da un cliente.
+	- Java è un linguaggio di programmazione che sposa completamente il paradigma Object Oriented. (In realtà si è sposata e separata subito dopo)
+	- Object Oriented 
+PRINCIPALI CARATTERISTICHE JAVA
+- Object Oriented
+- Semplice (evoluzione del C)
+	Sintassi simile a C e C++
+	Elimina i costrutti più pericolosi di C e C++
+- Indipendente dalla piattaforma (portabile)
+	Un programma Java si scrive una volta sola e deve girare su tutte le piattaforme che hanno una macchina virtuale
+- Indipendente dall'architettura
+- Robusto (affidabile)
+	- Rilevamento errori in fase di compilazione e di esecuzione
+	- Mascheramento dei puntatori
+- Concorrente (multithreading)
+- Sicuro
+
+Procedurale: istruzioni in sequenza
+
+PORTABILITA' JAVA
+Il linguaggio funziona su tutte le piattaforme
+
+Solaris è l'azienda madre di JAVA
+
+COSA SERVE?
+Dal sito della Oracle/Sun è possibile scaricare il kit per lavorare in java
+	-Il compilatore
+	-L'interprete java (JVM per la piattaforma prescelta)
+	-La libreria SE
+	-Altri tooks utili
+Kit disponibili in Java:
+J2SE
+
+INTRODUZIONE ALL'UML
+UML: Unified Modeling Language (equivalente di un plastico per quanto riguarda una costruzione)
+Un modello dell'analisi è un'astrazione di cosa il sistema deve fare, non di come deve farlo.
+Si realizza tramite notazioni grafiche semplici e precise (diagrammi), in modo da essere facilmente
+
+"Class Diagram"
